@@ -1,0 +1,58 @@
+[
+    {
+      "questionNo": "Q1",
+      "question": "Which of the following is neither an improper fraction nor a unit fraction?",
+      "options": [
+       "./assests/optionImg/21.jpg",
+        "./assests/optionImg/22.jpg",
+        "./assests/optionImg/23.jpg",
+        "./assests/optionImg/24.jpg"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q2",
+      "question": "The largest integer less than <BR><img width='80%' src='./assests/images/40.png'>",
+      "options": [
+        "0",
+        "1",
+        "5",
+        "6"
+      ],
+      "correct": 3
+    },
+    {
+      "questionNo": "Q3",
+      "question": "Arrange the following fractions in descending order:<BR><img width='80%' src='./assests/images/41.png'>",
+      "options": [
+        "./assests/optionImg/25.jpg",
+        "./assests/optionImg/26.jpg",
+        "./assests/optionImg/27.jpg",
+        "./assests/optionImg/28.jpg"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q4",
+      "question": "What is the sum of A, B and C? If the given fractions are all equivalent fractions:<BR><img width='80%' src='./assests/images/42.png'>",
+      "options": [
+        "90",
+        "92",
+        "78",
+        "82"
+      ],
+      "correct": 1
+    },
+    {
+      "questionNo": "Q5",
+      "question": "Which fraction lies between <BR><img width='80%' src='./assests/images/43.png'>",
+      "options": [
+        "./assests/optionImg/29.jpg",
+        "./assests/optionImg/30.jpg",
+        "./assests/optionImg/31.jpg",
+        "./assests/optionImg/32.jpg"
+      ],
+      "correct": 2
+    }
+  ]
+  
